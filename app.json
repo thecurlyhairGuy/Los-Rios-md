@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ʟᴏs ʀɪᴏs 🚘 𝗠𝗗 𝗕𝗢𝗧",
+      "value":"𝗞𝗜𝗡𝗚 𝗕𝗔𝗟𝗗𝗪𝗜𝗡 𝗜𝗩 ❤️🤚🏼",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/efa95dac659f93718b73f.jpg",
+      "value":"https://telegra.ph/file/ac27c2a16fbd05876d26b.mp4,https://telegra.ph/file/10221c879d2aef58e7aaa.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR VENOCYBER"
+    "value": "𝖪𝖨𝖭𝖦 𝖡𝖠𝖫𝖣𝖶𝖨𝖭 𝖨𝖵🤚🏼"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255698101622"
+    "value": "2347086606304,2348121094113,2349132095836"
   },
     "WARN_COUNT":
   {
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"1",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
