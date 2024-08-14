@@ -27,7 +27,7 @@
 <b>Version -> 2.0.0</b>
 
 ### DISCLAIMER ⚠️⚠️⚠️
-[PLEASE KINDLY DON'T MAKE ANY CHANGES ON THIS REPO BEFORE CONTACT THE OWNER CLICK HERE TO NOTIFY](https://wa.me/message/MZ7PT2QZ3TNSC1)
+[PLEASE KINDLY DON'T MAKE ANY CHANGES ON THIS REPO BEFORE CONTACT THE OWNER CLICK HERE TO NOTIFY](https://wa.me/message/255625774543)
  
 # Los Rios MD whatsapp bot is,
 
@@ -44,7 +44,7 @@
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://rios-c72316d92731.herokuapp.com/)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://veno-session.onrender.com/qr)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 
@@ -53,7 +53,7 @@
 * ᴘᴀɪʀ ᴅᴇᴠɪᴄᴇ ʜᴇʀᴇ 👇👇👇
 
   <p align="left">
-<a href="https://venocybersession-92030da961de.herokuapp.com/pair"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+<a href="https://veno-session.onrender.com/"><img align="center" src="https://telegra.ph/file/8aab1ad642af1798b13d1.jpg" alt="Fork and deploy" height="50" width="200" /></a>
 
 
 # 
